@@ -1,4 +1,4 @@
-[![MaterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240228T073614Z&X-Amz-Expires=300&X-Amz-Signature=f4defc4ea1e29ef653c88ca2f4710178b0a6e3d54581ae4079c4010baded0933&X-Amz-SignedHeaders=host&actor_id=155106311&key_id=0&repo_id=588181932)] 
+[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240228T073614Z&X-Amz-Expires=300&X-Amz-Signature=f4defc4ea1e29ef653c88ca2f4710178b0a6e3d54581ae4079c4010baded0933&X-Amz-SignedHeaders=host&actor_id=155106311&key_id=0&repo_id=588181932)] 
 <h1 align="center">Hi 👋, I'm JITENDRA KUMAR PRAJAPAT</h1>
 <h3 align="center">A passionate fronthand developer,cybersecurity and ethical hacking from India</h3>
 
