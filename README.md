@@ -13,7 +13,7 @@ Skills: Python / HTML / CSS / Cybersecurity
 - 🔭 I’m currently working on As Student in Poornima Institute of Engineering and Technology  
 - 🌱 I’m currently learning Cybersecurity & IT Automation with Python  
 - 💬 Ask me about Cybersecurity  
-- 📫 How to reach me: Jk96604220@gmail.com  
+- 📫 How to reach me: iamjittendra028@gmail.com 
 - 😄 Pronouns: Jayesh  
 - ⚡ Fun fact: I Love Hacking  
 
