@@ -32,5 +32,6 @@ Skills: Python / HTML / CSS / Cybersecurity / Php / MySql
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjitendra028&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=iamjitendra028)  
+
+
 
