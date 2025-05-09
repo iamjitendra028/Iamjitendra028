@@ -5,10 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjitendra028&label=Profile%20views&color=0e75b6&style=flat" alt="iamjitendra028" /> </p>
 <h3 align="left">About Me </h3>
-I am Beginner in technical filed so I have to explore new things in my field 
 
-
-Skills: Python / HTML / CSS / Cybersecurity 
+Skills: Python / HTML / CSS / Cybersecurity / Php / MySql 
 
 - 🔭 I’m currently working on As Student in Poornima Institute of Engineering and Technology  
 - 🌱 I’m currently learning Cybersecurity & IT Automation with Python  
